@@ -22,4 +22,5 @@ A classe `Heroi` é capaz de:
     * 🥷 Ninja -> Shuriken
 
 ## 👨‍💻 Autor
-Desenvolvido por [Seu Nome] durante a jornada na DIO.
+Desenvolvido por Camustê Argôlo durante a jornada na DIO.
+
